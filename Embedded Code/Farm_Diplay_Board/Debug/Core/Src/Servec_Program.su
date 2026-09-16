@@ -1,0 +1,15 @@
+../Core/Src/Servec_Program.c:60:8:Time_GetElapsed	24	static
+../Core/Src/Servec_Program.c:87:8:Time_Add	24	static
+../Core/Src/Servec_Program.c:156:10:Date_GetElapsedDays	8	static
+../Core/Src/Servec_Program.c:171:6:void_HandleComingFlag	96	static
+../Core/Src/Servec_Program.c:328:6:void_HandleEEpromData	72	static
+../Core/Src/Servec_Program.c:488:6:void_HandleDataFarmUsers	48	static
+../Core/Src/Servec_Program.c:660:6:void_SendDataCaptioer	40	static
+../Core/Src/Servec_Program.c:686:6:void_SendDataCaptioerForSpesficUser	80	static
+../Core/Src/Servec_Program.c:890:6:void_SaveUserPasswordInEEPROM	8	static
+../Core/Src/Servec_Program.c:905:6:void_ReadUserPasswordFromEEPROM	8	static
+../Core/Src/Servec_Program.c:913:6:void_SendPasswordsOverBluetooth	24	static
+../Core/Src/Servec_Program.c:929:6:Uint8_To_2DigitASCII	16	static
+../Core/Src/Servec_Program.c:935:6:Uint16_To_3DigitASCII	16	static
+../Core/Src/Servec_Program.c:945:6:BUZZER_voidHornTimeIT	8	static
+../Core/Src/Servec_Program.c:954:6:HAL_TIM_PeriodElapsedCallback	8	static

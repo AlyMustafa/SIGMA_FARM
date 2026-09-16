@@ -1,0 +1,5 @@
+../Core/Src/Bloutoth_Program.c:397:16:u8_CompareTwoStringes	16	static
+../Core/Src/Bloutoth_Program.c:41:6:SytemComunication_voidBluetoothCommProcessFrame	272	static
+../Core/Src/Bloutoth_Program.c:438:6:void_SendDataOverBlutothWithLength	8	static
+../Core/Src/Bloutoth_Program.c:443:6:Send_Show	24	static
+../Core/Src/Bloutoth_Program.c:548:6:void_SendNumberToTerminal	32	static

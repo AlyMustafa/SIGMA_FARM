@@ -1,0 +1,4 @@
+../Core/Src/DS1308_Program.c:46:6:DS1308_Init	48	static
+../Core/Src/DS1308_Program.c:79:6:DS1308SetDateAndTime	16	static
+../Core/Src/DS1308_Program.c:117:6:DS1308_GetCurrentDate	24	static
+../Core/Src/DS1308_Program.c:130:6:DS1308_GetCurrentTime	24	static

@@ -1,0 +1,12 @@
+../Core/Src/EEPROM_Program.c:95:9:EEPROM_u8WriteHalfWordData	2
+../Core/Src/EEPROM_Program.c:139:9:EEPROM_Write	6
+../Core/Src/EEPROM_Program.c:166:10:EEPROM_Read	5
+../Core/Src/EEPROM_Program.c:175:10:EEPROM_u16ReadHalfWordData	2
+../Core/Src/EEPROM_Program.c:192:6:EEPROM_voidWriteSigmaLog	3
+../Core/Src/EEPROM_Program.c:203:6:EEPROM_voidReadSigmaLog	1
+../Core/Src/EEPROM_Program.c:238:6:EEPROM_voidWriteByteFram	3
+../Core/Src/EEPROM_Program.c:290:6:EEPROM_voidReadByteFram	2
+../Core/Src/EEPROM_Program.c:335:6:EEPROM_voidClearAll	2
+../Core/Src/EEPROM_Program.c:381:6:EEPROM_voidWriteBuffer	4
+../Core/Src/EEPROM_Program.c:416:6:EEPROM_voidReadBuffer	1
+../Core/Src/EEPROM_Program.c:434:6:EEPROM_voidErase	2

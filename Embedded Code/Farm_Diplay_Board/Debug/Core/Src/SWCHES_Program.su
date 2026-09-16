@@ -1,0 +1,2 @@
+../Core/Src/SWCHES_Program.c:34:12:SWCHES_u8GetSwitchState_1	48	static
+../Core/Src/SWCHES_Program.c:87:12:SWCHES_u8GetSwitchState	48	static

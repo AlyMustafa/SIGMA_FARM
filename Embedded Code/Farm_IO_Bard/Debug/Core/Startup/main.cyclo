@@ -1,0 +1,7 @@
+../Core/Startup/main.c:69:5:main	11
+../Core/Startup/main.c:176:6:SystemClock_Config	4
+../Core/Startup/main.c:219:13:MX_USART1_UART_Init	2
+../Core/Startup/main.c:254:13:MX_GPIO_Init	1
+../Core/Startup/main.c:322:6:HAL_UART_RxCpltCallback	5
+../Core/Startup/main.c:342:6:HAL_UART_ErrorCallback	1
+../Core/Startup/main.c:357:6:Error_Handler	1

@@ -1,0 +1,10 @@
+../Core/Src/CLCD_program.c:30:13:voidSetLCDHalfDataPort	1
+../Core/Src/CLCD_program.c:39:6:CLCD_voidSendCmd	1
+../Core/Src/CLCD_program.c:64:6:CLCD_voidSendData	1
+../Core/Src/CLCD_program.c:89:6:CLCD_voidInit	1
+../Core/Src/CLCD_program.c:153:9:CLCD_u8SendString	4
+../Core/Src/CLCD_program.c:173:6:CLCD_voidSendNumber	6
+../Core/Src/CLCD_program.c:203:6:CLCD_voidGoToXY	5
+../Core/Src/CLCD_program.c:227:6:CLCD_voidSendSpecialCharacter	6
+../Core/Src/CLCD_program.c:247:9:CLCD_u8SendLenghOfString	4
+../Core/Src/CLCD_program.c:305:6:CLCD_voidSendFloatNumber	1
